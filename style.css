@@ -1,0 +1,919 @@
+:root {
+	--web-view-ids: Home;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: true;
+	--web-application: false;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+	--web-page-font: arials;
+}
+#Home {
+	display: none;
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: Home;
+		--web-view-id: Home;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: fit;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-center-vertically: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+		--web-page-font: arials;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Home {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 7078px;
+		font-family: arials;
+		background-color: rgba(36,36,36,1);
+		overflow: hidden;
+		--web-view-name: Home;
+		--web-view-id: Home;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: fit;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-center-vertically: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+		--web-page-font: arials;
+	}
+	#Rectangle_12 {
+		fill: rgba(27,27,27,1);
+	}
+	.Rectangle_12 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 910px;
+		left: 0px;
+		top: 5725px;
+	}
+	#THEY_CHANGED_THE_WORLD_NOW_YOU {
+		left: 151px;
+		top: 203px;
+		position: absolute;
+		overflow: visible;
+		width: 357px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 97px;
+		color: rgba(255,255,255,1);
+	}
+	#Learn_from_the_most_inspiring_ {
+		left: 148px;
+		top: 523px;
+		position: absolute;
+		overflow: visible;
+		width: 363px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(167,163,163,1);
+	}
+	#Rectangle_1 {
+		fill: rgba(46,46,46,1);
+		stroke: rgba(92,90,90,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 451px;
+		height: 72px;
+		left: 103px;
+		top: 709px;
+	}
+	#Component_1__1 {
+		position: absolute;
+		width: 451px;
+		height: 75px;
+		left: 103px;
+		top: 839px;
+		overflow: visible;
+	}
+	#Rectangle_2 {
+		fill: rgba(238,62,86,0.741);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 452px;
+		height: 76px;
+		left: 0px;
+		top: 0px;
+	}
+	#Keep_me_up_to_date_on_class_ev {
+		left: 148px;
+		top: 953px;
+		position: absolute;
+		overflow: visible;
+		width: 378px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(167,163,163,1);
+	}
+	#pexels-pixabay-532220 {
+		position: absolute;
+		width: 287.272px;
+		height: 430.393px;
+		left: 1531.387px;
+		top: 347.94px;
+		overflow: visible;
+	}
+	#pexels-andrea-piacquadio-37785 {
+		position: absolute;
+		width: 286.929px;
+		height: 430.393px;
+		left: 1242.258px;
+		top: 347.94px;
+		overflow: visible;
+	}
+	#pexels-olha-ruskykh-7504814 {
+		position: absolute;
+		width: 286.929px;
+		height: 430.393px;
+		left: 664px;
+		top: 350.607px;
+		overflow: visible;
+	}
+	#pexels-pranav-digwal-32976 {
+		position: absolute;
+		width: 286.929px;
+		height: 430.393px;
+		left: 953.129px;
+		top: 350.607px;
+		overflow: visible;
+	}
+	#Starting_at_1295month_billed_a {
+		left: 162px;
+		top: 998px;
+		position: absolute;
+		overflow: visible;
+		width: 351px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+	}
+	#By_sharing_your_email_you_agre {
+		opacity: 0.42;
+		left: 220px;
+		top: 1037px;
+		position: absolute;
+		overflow: visible;
+		width: 219px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(167,163,163,1);
+	}
+	#statesman_logo {
+		position: absolute;
+		width: 190px;
+		height: 40px;
+		left: 1016px;
+		top: 1127px;
+		overflow: visible;
+	}
+	#nike {
+		position: absolute;
+		width: 186px;
+		height: 186px;
+		left: 1476px;
+		top: 1054px;
+		overflow: visible;
+	}
+	#Ford_Motor_Company-Logowine {
+		position: absolute;
+		width: 213px;
+		height: 142px;
+		left: 567px;
+		top: 1076px;
+		overflow: visible;
+	}
+	#Unlimited_access_to_150_instru {
+		left: 277px;
+		top: 1261px;
+		position: absolute;
+		overflow: visible;
+		width: 1445px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 87px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_3 {
+		fill: rgba(36,36,36,1);
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 119px;
+		left: 0px;
+		top: 0px;
+	}
+	#meetup {
+		position: absolute;
+		width: 53px;
+		height: 52px;
+		left: 103px;
+		top: 32px;
+		overflow: visible;
+	}
+	#Master_class {
+		left: 156px;
+		top: 58px;
+		position: absolute;
+		overflow: visible;
+		width: 102px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 34px;
+		color: rgba(231,36,63,1);
+	}
+	#All_categories_ {
+		left: 664px;
+		top: 41px;
+		position: absolute;
+		overflow: visible;
+		width: 104px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(167,163,163,1);
+	}
+	#search {
+		left: 848px;
+		top: 41px;
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(167,163,163,1);
+	}
+	#view_plans_ {
+		left: 976px;
+		top: 41px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(167,163,163,1);
+	}
+	#At_work_ {
+		left: 1642px;
+		top: 41px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(167,163,163,1);
+	}
+	#Log_in {
+		left: 1785px;
+		top: 41px;
+		position: absolute;
+		overflow: visible;
+		width: 45px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(167,163,163,1);
+	}
+	#search_ {
+		position: absolute;
+		width: 20px;
+		height: 20px;
+		left: 823px;
+		top: 51px;
+		overflow: visible;
+	}
+	#down-arrow {
+		position: absolute;
+		width: 26px;
+		height: 26px;
+		left: 767px;
+		top: 52px;
+		overflow: visible;
+	}
+	#yncnyi7ijrzb4htyric6pinvcz2h {
+		position: absolute;
+		width: 1200px;
+		height: 514px;
+		left: 223px;
+		top: 1419px;
+		overflow: visible;
+	}
+	#_Lessons_from_Influential_Blac {
+		left: 1244px;
+		top: 1741px;
+		position: absolute;
+		overflow: visible;
+		width: 427px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 48px;
+		color: rgba(255,255,255,1);
+	}
+	#s9gp5hrf2a90xru4y6ho5ka81cal {
+		position: absolute;
+		width: 758px;
+		height: 406px;
+		left: 1097px;
+		top: 1419px;
+		overflow: visible;
+	}
+	#Rectangle_4 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 128px;
+		height: 49px;
+		left: 1542px;
+		top: 1427px;
+	}
+	#New {
+		left: 1587px;
+		top: 1430px;
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 39px;
+		color: rgba(72,71,71,1);
+	}
+	#Rectangle_5 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 297px;
+		height: 68px;
+		left: 1457px;
+		top: 1955px;
+	}
+	#Watch_Tailer {
+		left: 1532px;
+		top: 1962px;
+		position: absolute;
+		overflow: visible;
+		width: 149px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 47px;
+		color: rgba(72,71,71,1);
+	}
+	#Coming_Soon {
+		left: 223px;
+		top: 2145px;
+		position: absolute;
+		overflow: visible;
+		width: 377px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 125px;
+		color: rgba(255,255,255,1);
+	}
+	#zmwq8f8n1hqz3mufxyaf9969gmnr {
+		position: absolute;
+		width: 671px;
+		height: 378px;
+		left: 1020px;
+		top: 2346px;
+		overflow: visible;
+	}
+	#xpewj2dah7c0ayxzp01046obq4dw {
+		position: absolute;
+		width: 671px;
+		height: 378px;
+		left: 312px;
+		top: 2346px;
+		overflow: visible;
+	}
+	#Laura_Kim_and_Fernando_Garcia_ {
+		left: 1068px;
+		top: 2592px;
+		position: absolute;
+		overflow: visible;
+		width: 417px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(255,255,255,1);
+	}
+	#leadership_american_politics {
+		left: 381px;
+		top: 2621px;
+		position: absolute;
+		overflow: visible;
+		width: 337px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Onyx, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(255,255,255,1);
+	}
+	#Stream_anytime_anywhere__at_yo {
+		left: 167px;
+		top: 2775px;
+		position: absolute;
+		overflow: visible;
+		width: 670px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 54px;
+		color: rgba(255,255,255,1);
+	}
+	#Watch_on_desktop_TV_or_mobile_ {
+		left: 238px;
+		top: 2970px;
+		position: absolute;
+		overflow: visible;
+		width: 452px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#check {
+		position: absolute;
+		width: 48px;
+		height: 48px;
+		left: 167px;
+		top: 2960px;
+		overflow: visible;
+	}
+	#check_bm {
+		position: absolute;
+		width: 48px;
+		height: 48px;
+		left: 167px;
+		top: 3031px;
+		overflow: visible;
+	}
+	#check_bn {
+		position: absolute;
+		width: 48px;
+		height: 48px;
+		left: 167px;
+		top: 3098px;
+		overflow: visible;
+	}
+	#devices-5e6a77e1e96b55c49a7e15 {
+		position: absolute;
+		width: 738px;
+		height: 735px;
+		left: 1001px;
+		top: 2812px;
+		overflow: visible;
+	}
+	#app-store-png-logo-33123 {
+		position: absolute;
+		width: 228px;
+		height: 152px;
+		left: 143px;
+		top: 3193px;
+		overflow: visible;
+	}
+	#amazon-png-logo-vector-6697 {
+		position: absolute;
+		width: 178px;
+		height: 178px;
+		left: 506px;
+		top: 3136px;
+		overflow: visible;
+	}
+	#tokopedia-38840 {
+		position: absolute;
+		width: 190px;
+		height: 57px;
+		left: 494px;
+		top: 3279px;
+		overflow: visible;
+	}
+	#ID1295mo_Billed_annually {
+		left: 195px;
+		top: 3398px;
+		position: absolute;
+		overflow: visible;
+		width: 358px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_6 {
+		fill: rgba(188,53,71,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_6 {
+		position: absolute;
+		overflow: visible;
+		width: 281px;
+		height: 72px;
+		left: 191px;
+		top: 3493px;
+	}
+	#Rectangle_7 {
+		fill: rgba(46,46,46,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 281px;
+		height: 72px;
+		left: 191px;
+		top: 3608px;
+	}
+	#Get_Started {
+		left: 267px;
+		top: 3627px;
+		position: absolute;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Explore_Classes {
+		left: 238px;
+		top: 3511px;
+		position: absolute;
+		overflow: visible;
+		width: 188px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(255,255,255,1);
+	}
+	#See_what_our_members_are_sayin {
+		left: 256px;
+		top: 3916px;
+		position: absolute;
+		overflow: visible;
+		width: 1410px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 93px;
+		color: rgba(255,255,255,1);
+	}
+	#taylor-3x4-ebaa2554f90052f32a1 {
+		position: absolute;
+		width: 610px;
+		height: 813px;
+		left: 1055px;
+		top: 4127px;
+		overflow: visible;
+	}
+	#Rectangle_8 {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_8 {
+		position: absolute;
+		overflow: visible;
+		width: 828px;
+		height: 493px;
+		left: 425px;
+		top: 4295px;
+	}
+	#The_more_that_you_read__the_mo {
+		left: 457px;
+		top: 4349px;
+		position: absolute;
+		overflow: visible;
+		width: 765px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 55px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_9 {
+		fill: rgba(49,49,50,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_9 {
+		position: absolute;
+		overflow: visible;
+		width: 537px;
+		height: 212px;
+		left: 114px;
+		top: 5246px;
+	}
+	#Rectangle_10 {
+		fill: rgba(49,49,50,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_10 {
+		position: absolute;
+		overflow: visible;
+		width: 537px;
+		height: 212px;
+		left: 692px;
+		top: 5246px;
+	}
+	#Rectangle_11 {
+		fill: rgba(49,49,50,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_11 {
+		position: absolute;
+		overflow: visible;
+		width: 537px;
+		height: 212px;
+		left: 1270px;
+		top: 5246px;
+	}
+	#ID150_classes__From_the_worlds {
+		left: 210px;
+		top: 5279px;
+		position: absolute;
+		overflow: visible;
+		width: 347px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(255,255,255,1);
+	}
+	#ID20_lessons__Average_per_clas {
+		left: 822px;
+		top: 5279px;
+		position: absolute;
+		overflow: visible;
+		width: 279px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(255,255,255,1);
+	}
+	#ID10_minutes__Average_per_less {
+		left: 1388px;
+		top: 5279px;
+		position: absolute;
+		overflow: visible;
+		width: 303px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(255,255,255,1);
+	}
+	#Explore_our_library_of_classes {
+		left: 566px;
+		top: 5521px;
+		position: absolute;
+		overflow: visible;
+		width: 789px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(255,255,255,1);
+	}
+	#bulk-banner-desktop-b24a258ded {
+		position: absolute;
+		width: 650px;
+		height: 409px;
+		left: 1131px;
+		top: 5856px;
+		overflow: visible;
+	}
+	#MASTERCLASS_AT_WORK__Group_rat {
+		left: 47px;
+		top: 5902px;
+		position: absolute;
+		overflow: visible;
+		width: 1039px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Verdana, arials;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 50px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_13 {
+		fill: rgba(188,53,71,1);
+	}
+	.Rectangle_13 {
+		position: absolute;
+		overflow: visible;
+		width: 366px;
+		height: 77px;
+		left: 185px;
+		top: 6265px;
+	}
+	#Get_a_Quote {
+		left: 269px;
+		top: 6279px;
+		position: absolute;
+		overflow: visible;
+		width: 199px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 36px;
+		color: rgba(255,255,255,1);
+	}
+	#Learn_More {
+		left: 595px;
+		top: 6279px;
+		position: absolute;
+		overflow: visible;
+		width: 191px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Palatino Linotype, arials;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 36px;
+		color: rgba(255,255,255,1);
+	}
+	#right-arrow {
+		position: absolute;
+		width: 33px;
+		height: 33px;
+		left: 814px;
+		top: 6287px;
+		overflow: visible;
+	}
+}
